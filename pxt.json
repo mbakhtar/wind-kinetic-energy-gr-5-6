@@ -1,0 +1,30 @@
+{
+    "name": "Wind-Kinetic-Energy-Gr-5-6",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-fwd-edu": "github:climate-action-kits/pxt-fwd-edu#v0.18.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.16",
+        "tag": "v6.0.16",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/869750d0221fa2003a4e500f30f98da7a17ba278",
+        "target": "6.0.19",
+        "pxt": "9.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
